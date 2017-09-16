@@ -1,0 +1,7 @@
+C:\Users\Brian\Dropbox\NextHealth\ImportLogs\SevenZipLib\bin\Debug\Native\x64\7z.dll
+C:\Users\Brian\Dropbox\NextHealth\ImportLogs\SevenZipLib\bin\Debug\Native\x86\7z.dll
+C:\Users\Brian\Dropbox\NextHealth\ImportLogs\SevenZipLib\bin\Debug\SevenZipLib.dll
+C:\Users\Brian\Dropbox\NextHealth\ImportLogs\SevenZipLib\bin\Debug\SevenZipLib.pdb
+C:\Users\Brian\Dropbox\NextHealth\ImportLogs\SevenZipLib\obj\Debug\SevenZipLib.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\NextHealth\ImportLogs\SevenZipLib\obj\Debug\SevenZipLib.dll
+C:\Users\Brian\Dropbox\NextHealth\ImportLogs\SevenZipLib\obj\Debug\SevenZipLib.pdb

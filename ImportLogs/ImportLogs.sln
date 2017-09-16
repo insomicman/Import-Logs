@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportLogs", "ImportLogs\ImportLogs.csproj", "{861FB405-4B33-40A6-B2D4-C96CAC663D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZipLib", "SevenZipLib\SevenZipLib.csproj", "{B05D17BC-8A2B-482A-85BD-FF4B757E41BC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://brianschoonmaker.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = SevenZipLib\\SevenZipLib.csproj
+		SccProjectName0 = SevenZipLib
+		SccAuxPath0 = https://brianschoonmaker.visualstudio.com/defaultcollection
+		SccLocalPath0 = SevenZipLib
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861FB405-4B33-40A6-B2D4-C96CAC663D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861FB405-4B33-40A6-B2D4-C96CAC663D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861FB405-4B33-40A6-B2D4-C96CAC663D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861FB405-4B33-40A6-B2D4-C96CAC663D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05D17BC-8A2B-482A-85BD-FF4B757E41BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05D17BC-8A2B-482A-85BD-FF4B757E41BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05D17BC-8A2B-482A-85BD-FF4B757E41BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05D17BC-8A2B-482A-85BD-FF4B757E41BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
